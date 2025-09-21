@@ -1,4 +1,4 @@
-======= movie-recommender-system =======
+======= Movie-Recommender-System =======
 
 
 " project that recommends movies to users based on their preferences.  
